@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+	background-color: #E1E1D7;
+}
+
+nav {
+	background-color: #CACAC8;
+	padding: 15px;
+	border-bottom: 3px solid black;
+}
+
+
+form {
+	margin: 15px;
+	width: 500px;
+}
+
+table {
+	text-align:center;
+}
+
+
+a {
+	text-decoration:none;
+	color:black;
+	padding:10px;
+}
+
+a:hover {
+    background-color:white;
+}
